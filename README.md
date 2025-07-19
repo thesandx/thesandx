@@ -22,12 +22,12 @@
 
 
 
-- 🔭 I’m currently Studying in [IIITB](https://www.iiitb.ac.in/).
+- 🔭 I’m currently Working as a Data Enginner
 - 🌱 I’m currently learning more about Docker and Kubernetes.
 - 💬 Ask me about Flutter,Android or any tech related stuff.
 - 📫 How to reach me: [Twitter - @thesandx](https://twitter.com/thesandx)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am specialized in binge-watching.
+- ⚡ Fun fact: I am specialised in binge-watching.
 
 [![Twitter: thesandx](https://img.shields.io/twitter/follow/thesandx?style=social)](https://twitter.com/thesandx)
 [![Linkedin: thesandx](https://img.shields.io/badge/-thesandx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thesandx/)](https://www.linkedin.com/in/thesandx/)
@@ -42,6 +42,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<!---
+
+your comment goes here
+and here
 
 <a href="https://github.com/thesandx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesandx&theme=light&hide_langs_below=1" />
@@ -49,9 +53,12 @@
 <a href="https://github.com/thesandx">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thesandx&show_icons=true&theme=light&line_height=27" alt="Sandeep's github stats"/>
 </a>
+-->
 
 <div align="center">
-
+<!---
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+-->
